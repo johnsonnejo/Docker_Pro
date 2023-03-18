@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          My first Docker work with React..
+          Hi there, Welcome to DevOps World. This is Docker in Action.
         </p>
         <a
           className="App-link"
